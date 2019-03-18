@@ -1,2 +1,2 @@
-feature1
-hadoop1
+feature2
+hadoop2
